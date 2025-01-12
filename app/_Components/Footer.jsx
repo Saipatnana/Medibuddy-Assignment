@@ -58,7 +58,7 @@ const Footer = () => {
         isMobile
           ? "bg-[url('/footer_bg_image.svg')]"
           : "bg-[url('/desktop_footer_bg.svg')]"
-      } bg-cover w-full md:h-[80vh] p-12 pt-28 md:pt-52 md:p-48 text-white`}
+      } bg-cover w-full md:h-[80vh] p-12 pt-28 md:pt-56 md:p-48 text-white`}
     >
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         <div>
