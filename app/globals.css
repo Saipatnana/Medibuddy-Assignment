@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-text {
+    background: linear-gradient(to right, #4285f4 4%, #db4437 35% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
